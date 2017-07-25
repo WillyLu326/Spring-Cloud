@@ -1,2 +1,14 @@
 server:
   port: 8671
+  
+spring:
+  application:
+    name: spring-cloud-server
+    
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+      
