@@ -9,7 +9,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
-    registry-fetch-interval-seconds: 30
+    registry-fetch-interval-seconds: 15
   instance:
     instance-id: ${spring.application.name}:${random.value}
     prefer-ip-address: true
