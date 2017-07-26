@@ -1,13 +1,11 @@
 INDEX VERSION 1.130+/Users/zhenglu/Documents/spring-cloud/.metadata/.plugins/org.eclipse.jdt.core
 2505347668.index
 2346956922.index
-2380447381.index
 365193751.index
 1848789607.index
 1992426807.index
 3929026149.index
 4101057782.index
-1493815818.index
 2166242290.index
 2848641269.index
 945999579.index
